@@ -40,6 +40,18 @@ h3 {
     line-height: 50px;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: lightblue;
+}
+
+.light {
+    background-color: aliceblue;
+}
+
 img {
     width: 200px;
     margin: 20px;
