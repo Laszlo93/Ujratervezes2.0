@@ -1,0 +1,10 @@
+{
+    "users": [
+        {"id": 1, "name": "Big Tom", "eamil": "bigtom@gmial.com"},
+        {"id": 1, "name": "Little Jimmy", "eamil": "littlejimmy@gmial.com"},
+        {"id": 1, "name": "Mid John", "eamil": "midjohn@gmial.com"}
+    ],
+    "comments": [
+        {"id": 1, "body": "some comment", "userId": 1}
+    ]
+}
